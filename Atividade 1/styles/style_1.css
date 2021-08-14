@@ -1,0 +1,13 @@
+p strong{
+    color: red;
+}
+
+.destaque{
+    background-color: #fffcbb;
+    padding: 15px;
+    width: auto;
+}
+
+#unico{
+    font-weight: bold;
+}

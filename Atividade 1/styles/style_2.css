@@ -1,0 +1,22 @@
+.title{
+    text-align: right;
+}
+table, th, td{
+    border: 1px solid;
+    
+}
+
+
+.table{
+    display: flex;
+    justify-content: center;
+
+}
+
+tr td:first-child {
+    color: red;
+}
+tr td:last-child {
+    font-weight: bold;
+}
+

@@ -1,0 +1,28 @@
+.div_1{
+    width: auto;
+    border: 5px solid green;
+    height: 100px;
+    background-color: red;
+}
+
+.div_2{
+    border: 1px solid black;
+    height: 100px;
+}
+
+.div_3{
+    background-color: purple;
+    display: flex;
+}
+
+.div_4{
+    display: flex;
+    width: auto;
+    background-color: orange;
+    border: 5px solid red;
+}
+
+.div_4 p {
+    font-size: 40px;
+}
+
